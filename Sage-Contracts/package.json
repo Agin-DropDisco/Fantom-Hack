@@ -1,0 +1,15 @@
+{
+  "name": "sage-contracts",
+  "author": "Agin DropDisco, email: gin.dropdisco@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "@openzeppelin/contracts": "^4.8.2",
+    "ethers": "^5.0.31",
+    "hardhat": "^2.0.10"
+
+  },
+  "scripts": {
+    "deploy:fantomOpera": "npx hardhat run --network fantomOpera scripts/deploy-contracts.js",
+  }
+}
