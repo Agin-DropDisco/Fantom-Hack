@@ -22,8 +22,11 @@ SAGE "Save the Lost Girl" is a web adventure game with a mission to save a girl 
 2. SageNFT: [0xEb1718d6126231deb419944ACF9c64Ede8F4B23a](https://ftmscan.com/address/0xEb1718d6126231deb419944ACF9c64Ede8F4B23a)
 
 
-## Game Demo : [https://app-sage.pages.dev](https://fantom-sage.pages.dev/)
-## Gameplay Video Demo: https://youtu.be/wy2l6A4_lbk
+## Game Demo : 
+[https://fantom-sage.pages.dev](https://fantom-sage.pages.dev)
+
+## Gameplay Video Demo: 
+https://youtu.be/wy2l6A4_lbk
 
 
 
