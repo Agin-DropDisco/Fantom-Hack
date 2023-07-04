@@ -26,7 +26,7 @@ SAGE "Save the Lost Girl" is a web adventure game with a mission to save a girl 
 [https://fantom-sage.pages.dev](https://fantom-sage.pages.dev)
 
 ## Gameplay Video Demo: 
-https://youtu.be/wy2l6A4_lbk
+https://youtu.be/nhZsqBPxWPc
 
 
 
